@@ -5,3 +5,7 @@ v1.0
 
 ## License
 MIT License
+
+## Files in this Repository
+- AI Sample.pdf – Project details.
+- AI Sample.zip – Source files for AI demo.
