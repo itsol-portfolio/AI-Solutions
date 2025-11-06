@@ -1,0 +1,4 @@
+Version 1.0.0
+Initial release – Artificial Intelligence resources
+Includes PDF overview and sample AI scripts
+Date: November 2025
